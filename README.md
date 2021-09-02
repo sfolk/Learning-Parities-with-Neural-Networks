@@ -1,6 +1,8 @@
 # Learning-Parities-with-Neural-Networks
 This code reproduces the results of the paper by Amit Daniely &amp; Eran Malach. It was created as an exam project in the PhD programme of Data Science in SISSA, 2021
 
+User manual: Run the code for obtaining the images. Some images are already uploaded for a quick overview.
+
 Report 
 Introduction to NN exam 7/6/2021
 Reproduce the results in the paper: Learning Parities with Neural Networks
